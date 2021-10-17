@@ -2,3 +2,12 @@
      color: lawngreen;
      font-style: italic;
 }
+img{
+     width: 200px;
+     border-radius: 100px;
+     margin-right: 10px;
+     height: fit-content;
+ }
+ p{
+      color: blueviolet;
+ }
